@@ -1,0 +1,7 @@
+  A partir do dotnet 6.0 a método principal static void Main(string[] args) {} não fica mais explicito.
+  Porém nas versões anteriores ainda aparece de forma convencional como conhecemos.
+    class Program {
+      static void Main(string[] args) {}
+    }
+
+  Sendo assim nas versões pós .net6 não aparecerá explicitamente o método principal static void Main( string[] args)  
