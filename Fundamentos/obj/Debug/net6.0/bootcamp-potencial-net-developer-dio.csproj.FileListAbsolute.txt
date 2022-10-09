@@ -1,0 +1,15 @@
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\bin\Debug\net6.0\bootcamp-potencial-net-developer-dio.exe
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\bin\Debug\net6.0\bootcamp-potencial-net-developer-dio.deps.json
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\bin\Debug\net6.0\bootcamp-potencial-net-developer-dio.runtimeconfig.json
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\bin\Debug\net6.0\bootcamp-potencial-net-developer-dio.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\bin\Debug\net6.0\bootcamp-potencial-net-developer-dio.pdb
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\obj\Debug\net6.0\bootcamp-potencial-net-developer-dio.csproj.AssemblyReference.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\obj\Debug\net6.0\bootcamp-potencial-net-developer-dio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\obj\Debug\net6.0\bootcamp-potencial-net-developer-dio.AssemblyInfoInputs.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\obj\Debug\net6.0\bootcamp-potencial-net-developer-dio.AssemblyInfo.cs
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\obj\Debug\net6.0\bootcamp-potencial-net-developer-dio.csproj.CoreCompileInputs.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\obj\Debug\net6.0\bootcamp-potencial-net-developer-dio.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\obj\Debug\net6.0\refint\bootcamp-potencial-net-developer-dio.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\obj\Debug\net6.0\bootcamp-potencial-net-developer-dio.pdb
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\obj\Debug\net6.0\bootcamp-potencial-net-developer-dio.genruntimeconfig.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\obj\Debug\net6.0\ref\bootcamp-potencial-net-developer-dio.dll
