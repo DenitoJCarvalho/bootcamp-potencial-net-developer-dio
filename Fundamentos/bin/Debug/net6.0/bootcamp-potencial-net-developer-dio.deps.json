@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "bootcamp-potencial-net-developer-dio/1.0.0": {
+        "dependencies": {
+          "Fundamentos.Common": "1.0.0"
+        },
         "runtime": {
           "bootcamp-potencial-net-developer-dio.dll": {}
+        }
+      },
+      "Fundamentos.Common/1.0.0": {
+        "runtime": {
+          "Fundamentos.Common.dll": {}
         }
       }
     }
   },
   "libraries": {
     "bootcamp-potencial-net-developer-dio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Fundamentos.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
