@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
 
-using bootcamp_potencial_net_developer_dio.Models;
+using Fundamentos.Common.Models;
 
 class Program
 {

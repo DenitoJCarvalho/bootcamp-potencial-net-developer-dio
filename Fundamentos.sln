@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bootcamp-potencial-net-developer-dio", "bootcamp-potencial-net-developer-dio.csproj", "{B6C72361-585D-4B94-B1BF-C0D77C5F6024}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fundamentos", "Fundamentos\bootcamp-potencial-net-developer-dio.csproj", "{B6C72361-585D-4B94-B1BF-C0D77C5F6024}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fundamentos.Common", "Fundamentos.Common\Fundamentos.Common.csproj", "{E87B7393-AA35-44B5-919F-F1E88538A798}"
 EndProject

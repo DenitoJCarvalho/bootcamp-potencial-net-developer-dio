@@ -1,5 +1,6 @@
-#todos os arquivos .bin do diretório  fundamentos
+#todos os arquivos .bin 
 Fundamentos/*.bin
+Fundamentos.Common/*.bin
 
 #todo o diretório obj
 Fundamentos/obj
