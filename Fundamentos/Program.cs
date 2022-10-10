@@ -11,6 +11,13 @@ class Program
     Endereco endereco = new Endereco();
     Casting conversor = new Casting();
 
+    int[] arrayInteiros = new int[3];
+
+    arrayInteiros[0] = 72;
+    arrayInteiros[1] = 64;
+    arrayInteiros[2] = 50;
+
+
     pessoa1.Nome = "Lívia";
     pessoa1.Idade = 6;
     pessoa1.Sobrenome = "Deni de Carvalho";
@@ -28,5 +35,16 @@ class Program
 
     conversor.Conversor("10");
     conversor.Conversor("21");
+
+    for (int i = 0; i < arrayInteiros.Length; i++)
+    {
+      Console.WriteLine($"Posição nº: {i} - {arrayInteiros[i]}");
+    }
+
+    foreach (var numero in arrayInteiros)
+    {
+      Console.WriteLine($"{numero}");
+    }
+
   }
 }
