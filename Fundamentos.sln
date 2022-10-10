@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fundamentos", "Fundamentos\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fundamentos.Common", "Fundamentos.Common\Fundamentos.Common.csproj", "{E87B7393-AA35-44B5-919F-F1E88538A798}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioDeCodigo1", "DesafioDeCodigo1\DesafioDeCodigo1.csproj", "{505073FB-E5C0-49B3-854F-0C7501343E15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{E87B7393-AA35-44B5-919F-F1E88538A798}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E87B7393-AA35-44B5-919F-F1E88538A798}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E87B7393-AA35-44B5-919F-F1E88538A798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{505073FB-E5C0-49B3-854F-0C7501343E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505073FB-E5C0-49B3-854F-0C7501343E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505073FB-E5C0-49B3-854F-0C7501343E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505073FB-E5C0-49B3-854F-0C7501343E15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

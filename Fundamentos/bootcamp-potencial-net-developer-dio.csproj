@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Fundamentos.Common\Fundamentos.Common.csproj" />
+    <ProjectReference Include="..\DesafioDeCodigo1\DesafioDeCodigo1.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
