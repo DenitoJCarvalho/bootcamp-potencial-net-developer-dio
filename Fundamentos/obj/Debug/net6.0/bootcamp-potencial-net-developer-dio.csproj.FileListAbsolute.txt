@@ -31,3 +31,8 @@ D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Fundamentos
 D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Fundamentos\obj\Debug\net6.0\bootcamp-potencial-net-developer-dio.pdb
 D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Fundamentos\obj\Debug\net6.0\bootcamp-potencial-net-developer-dio.genruntimeconfig.cache
 D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Fundamentos\obj\Debug\net6.0\ref\bootcamp-potencial-net-developer-dio.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Fundamentos\bin\Debug\net6.0\DesafioDeCodigo1.deps.json
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Fundamentos\bin\Debug\net6.0\DesafioDeCodigo1.runtimeconfig.json
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Fundamentos\bin\Debug\net6.0\DesafioDeCodigo1.exe
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Fundamentos\bin\Debug\net6.0\DesafioDeCodigo1.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Fundamentos\bin\Debug\net6.0\DesafioDeCodigo1.pdb

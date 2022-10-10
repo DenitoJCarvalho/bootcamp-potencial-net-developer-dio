@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "DesafioDeCodigo1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DesafioDeCodigo1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DesafioDeCodigo1.dll": {}
+        }
+      },
       "Fundamentos.Common/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -15,6 +25,11 @@
     }
   },
   "libraries": {
+    "DesafioDeCodigo1/1.0.0": {
+      "type": "project",
+      "path": "../DesafioDeCodigo1/DesafioDeCodigo1.csproj",
+      "msbuildProject": "../DesafioDeCodigo1/DesafioDeCodigo1.csproj"
+    },
     "Fundamentos.Common/1.0.0": {
       "type": "project",
       "path": "../Fundamentos.Common/Fundamentos.Common.csproj",
@@ -23,6 +38,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "DesafioDeCodigo1 >= 1.0.0",
       "Fundamentos.Common >= 1.0.0"
     ]
   },
@@ -58,6 +74,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\DesafioDeCodigo1\\DesafioDeCodigo1.csproj": {
+              "projectPath": "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\DesafioDeCodigo1\\DesafioDeCodigo1.csproj"
+            },
             "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\Fundamentos.Common\\Fundamentos.Common.csproj": {
               "projectPath": "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\Fundamentos.Common\\Fundamentos.Common.csproj"
             }

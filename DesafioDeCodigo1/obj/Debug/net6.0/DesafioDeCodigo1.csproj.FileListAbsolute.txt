@@ -1,0 +1,15 @@
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo1\obj\Debug\net6.0\DesafioDeCodigo1.csproj.AssemblyReference.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo1\obj\Debug\net6.0\DesafioDeCodigo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo1\obj\Debug\net6.0\DesafioDeCodigo1.AssemblyInfoInputs.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo1\obj\Debug\net6.0\DesafioDeCodigo1.AssemblyInfo.cs
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo1\obj\Debug\net6.0\DesafioDeCodigo1.csproj.CoreCompileInputs.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo1\bin\Debug\net6.0\DesafioDeCodigo1.exe
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo1\bin\Debug\net6.0\DesafioDeCodigo1.deps.json
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo1\bin\Debug\net6.0\DesafioDeCodigo1.runtimeconfig.json
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo1\bin\Debug\net6.0\DesafioDeCodigo1.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo1\bin\Debug\net6.0\DesafioDeCodigo1.pdb
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo1\obj\Debug\net6.0\DesafioDeCodigo1.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo1\obj\Debug\net6.0\refint\DesafioDeCodigo1.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo1\obj\Debug\net6.0\DesafioDeCodigo1.pdb
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo1\obj\Debug\net6.0\DesafioDeCodigo1.genruntimeconfig.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo1\obj\Debug\net6.0\ref\DesafioDeCodigo1.dll

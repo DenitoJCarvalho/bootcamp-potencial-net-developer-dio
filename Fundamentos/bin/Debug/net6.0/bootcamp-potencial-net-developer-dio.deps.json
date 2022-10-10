@@ -8,10 +8,16 @@
     ".NETCoreApp,Version=v6.0": {
       "bootcamp-potencial-net-developer-dio/1.0.0": {
         "dependencies": {
+          "DesafioDeCodigo1": "1.0.0",
           "Fundamentos.Common": "1.0.0"
         },
         "runtime": {
           "bootcamp-potencial-net-developer-dio.dll": {}
+        }
+      },
+      "DesafioDeCodigo1/1.0.0": {
+        "runtime": {
+          "DesafioDeCodigo1.dll": {}
         }
       },
       "Fundamentos.Common/1.0.0": {
@@ -23,6 +29,11 @@
   },
   "libraries": {
     "bootcamp-potencial-net-developer-dio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesafioDeCodigo1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
