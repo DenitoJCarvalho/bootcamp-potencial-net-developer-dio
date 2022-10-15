@@ -4,6 +4,7 @@
     <ProjectReference Include="..\Fundamentos.Common\Fundamentos.Common.csproj" />
     <ProjectReference Include="..\DesafioDeCodigo1\DesafioDeCodigo1.csproj" />
     <ProjectReference Include="..\DesafioDeCodigo2\DesafioDeCodigo2.csproj" />
+    <ProjectReference Include="..\DesafioDeCodigo3\DesafioDeCodigo3.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
