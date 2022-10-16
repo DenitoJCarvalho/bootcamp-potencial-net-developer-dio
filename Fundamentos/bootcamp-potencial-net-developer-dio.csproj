@@ -5,6 +5,7 @@
     <ProjectReference Include="..\DesafioDeCodigo1\DesafioDeCodigo1.csproj" />
     <ProjectReference Include="..\DesafioDeCodigo2\DesafioDeCodigo2.csproj" />
     <ProjectReference Include="..\DesafioDeCodigo3\DesafioDeCodigo3.csproj" />
+    <ProjectReference Include="..\Estacionamento\Estacionamento.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
