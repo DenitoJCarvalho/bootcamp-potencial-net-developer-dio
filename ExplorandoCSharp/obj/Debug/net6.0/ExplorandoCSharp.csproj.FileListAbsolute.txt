@@ -1,0 +1,15 @@
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\ExplorandoCSharp\bin\Debug\net6.0\ExplorandoCSharp.exe
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\ExplorandoCSharp\bin\Debug\net6.0\ExplorandoCSharp.deps.json
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\ExplorandoCSharp\bin\Debug\net6.0\ExplorandoCSharp.runtimeconfig.json
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\ExplorandoCSharp\bin\Debug\net6.0\ExplorandoCSharp.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\ExplorandoCSharp\bin\Debug\net6.0\ExplorandoCSharp.pdb
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\ExplorandoCSharp\obj\Debug\net6.0\ExplorandoCSharp.csproj.AssemblyReference.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\ExplorandoCSharp\obj\Debug\net6.0\ExplorandoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\ExplorandoCSharp\obj\Debug\net6.0\ExplorandoCSharp.AssemblyInfoInputs.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\ExplorandoCSharp\obj\Debug\net6.0\ExplorandoCSharp.AssemblyInfo.cs
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\ExplorandoCSharp\obj\Debug\net6.0\ExplorandoCSharp.csproj.CoreCompileInputs.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\ExplorandoCSharp\obj\Debug\net6.0\ExplorandoCSharp.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\ExplorandoCSharp\obj\Debug\net6.0\refint\ExplorandoCSharp.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\ExplorandoCSharp\obj\Debug\net6.0\ExplorandoCSharp.pdb
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\ExplorandoCSharp\obj\Debug\net6.0\ExplorandoCSharp.genruntimeconfig.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\ExplorandoCSharp\obj\Debug\net6.0\ref\ExplorandoCSharp.dll
