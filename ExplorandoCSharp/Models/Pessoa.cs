@@ -10,7 +10,24 @@ namespace ExplorandoCSharp.Models
     /// <summary>
     /// As caracteristicas das propriedades são get e set, ou seja, pegar e setar.
     /// </summary>
-    public string Nome { get; set; }
+
+    private string _Nome;
+    public string Nome
+    {
+      get
+      {
+        return _Nome.ToUpper();
+      }
+
+      set
+      {
+        if (value == "")
+        {
+          throw new ArgumentException("O nome não pode ser vázio");
+        }
+        _Nome = value;
+      }
+    }
     public int Idade { get; set; }
 
     /// <summary>
