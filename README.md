@@ -4,4 +4,4 @@
 
 ___
 
-Nesse repositório está todo o projeto contruído durante o bootcamp.
+Nesse repositório está todos os projetos construídos durante o bootcamp.

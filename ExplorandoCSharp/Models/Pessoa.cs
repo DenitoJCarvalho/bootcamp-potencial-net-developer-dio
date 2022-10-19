@@ -12,12 +12,11 @@ namespace ExplorandoCSharp.Models
     /// </summary>
 
     private string _Nome;
+    private int _Idade;
     public string Nome
     {
-      get
-      {
-        return _Nome.ToUpper();
-      }
+      //Usando Boby expressions  
+      get => _Nome.ToUpper();
 
       set
       {
@@ -28,7 +27,20 @@ namespace ExplorandoCSharp.Models
         _Nome = value;
       }
     }
-    public int Idade { get; set; }
+    public int Idade
+    {
+      get => _Idade;
+
+      set
+      {
+        if (value < 0)
+        {
+          throw new ArgumentException("A idade não pode ser menor que 0");
+        }
+
+        _Idade = value;
+      }
+    }
 
     /// <summary>
     /// Apresenta o nome a idade da pessoa
