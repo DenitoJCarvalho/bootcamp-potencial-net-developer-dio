@@ -27,6 +27,10 @@ namespace ExplorandoCSharp.Models
         _Nome = value;
       }
     }
+
+    public string Sobrenome { get; set; }
+    public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
+
     public int Idade
     {
       get => _Idade;
@@ -47,7 +51,7 @@ namespace ExplorandoCSharp.Models
     /// </summary>
     public void Apresentar()
     {
-      Console.WriteLine($"Nome: {Nome} - Idade: {Idade}");
+      Console.WriteLine($"Nome: {NomeCompleto} - Idade: {Idade}");
     }
   }
 }
