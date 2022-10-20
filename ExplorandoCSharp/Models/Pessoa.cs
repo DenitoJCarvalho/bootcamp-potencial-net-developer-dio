@@ -7,6 +7,13 @@ namespace ExplorandoCSharp.Models
 {
   public class Pessoa
   {
+
+    public Pessoa() { }
+    public Pessoa(string Nome, string Sobrenome)
+    {
+      this.Nome = Nome;
+      this.Sobrenome = Sobrenome;
+    }
     /// <summary>
     /// As caracteristicas das propriedades são get e set, ou seja, pegar e setar.
     /// </summary>

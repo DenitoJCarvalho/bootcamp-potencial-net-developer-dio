@@ -1,8 +1,12 @@
 ﻿using ExplorandoCSharp.Models;
 
-Pessoa p1 = new Pessoa();
+Pessoa p1 = new Pessoa("Adrian", "D. de Carvalho");
+Pessoa p2 = new Pessoa("Lívia", "D. de Carvalho");
 
-p1.Nome = "Adrian";
-p1.Sobrenome = "D. de Carvalho";
-p1.Idade = 2;
-p1.Apresentar();
+Curso cursoDeIngles = new Curso();
+cursoDeIngles.Nome = "inglês";
+cursoDeIngles.Alunos = new List<Pessoa>();
+
+cursoDeIngles.AdicionarAluno(p1);
+cursoDeIngles.AdicionarAluno(p2);
+cursoDeIngles.ListarAlunos();
