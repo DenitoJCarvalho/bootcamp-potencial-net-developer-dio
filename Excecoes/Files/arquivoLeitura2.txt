@@ -1,0 +1,10 @@
+
+Lendo linha 1 do arquivo.
+
+Lendo linha 2 do arquivo.
+
+Lendo linha 3 do arquivo
+
+Lendo linha 4 do arquivo.
+
+Palmeiras o maior campeão brasileiro.

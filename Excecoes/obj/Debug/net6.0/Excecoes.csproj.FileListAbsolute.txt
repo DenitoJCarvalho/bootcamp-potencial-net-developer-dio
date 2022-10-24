@@ -1,0 +1,15 @@
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Excecoes\bin\Debug\net6.0\Excecoes.exe
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Excecoes\bin\Debug\net6.0\Excecoes.deps.json
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Excecoes\bin\Debug\net6.0\Excecoes.runtimeconfig.json
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Excecoes\bin\Debug\net6.0\Excecoes.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Excecoes\bin\Debug\net6.0\Excecoes.pdb
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Excecoes\obj\Debug\net6.0\Excecoes.csproj.AssemblyReference.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Excecoes\obj\Debug\net6.0\Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Excecoes\obj\Debug\net6.0\Excecoes.AssemblyInfoInputs.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Excecoes\obj\Debug\net6.0\Excecoes.AssemblyInfo.cs
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Excecoes\obj\Debug\net6.0\Excecoes.csproj.CoreCompileInputs.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Excecoes\obj\Debug\net6.0\Excecoes.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Excecoes\obj\Debug\net6.0\refint\Excecoes.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Excecoes\obj\Debug\net6.0\Excecoes.pdb
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Excecoes\obj\Debug\net6.0\Excecoes.genruntimeconfig.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Excecoes\obj\Debug\net6.0\ref\Excecoes.dll
