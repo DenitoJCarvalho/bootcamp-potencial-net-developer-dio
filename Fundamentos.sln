@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Di
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuplas", "Tuplas\Tuplas.csproj", "{90A20555-FEDF-4DDD-8EB8-1CAE0DE24E8B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desconstrutor", "Desconstrutor\Desconstrutor.csproj", "{E4C8E2F2-84D1-4225-A4BC-674B5A772341}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{90A20555-FEDF-4DDD-8EB8-1CAE0DE24E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90A20555-FEDF-4DDD-8EB8-1CAE0DE24E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90A20555-FEDF-4DDD-8EB8-1CAE0DE24E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4C8E2F2-84D1-4225-A4BC-674B5A772341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4C8E2F2-84D1-4225-A4BC-674B5A772341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4C8E2F2-84D1-4225-A4BC-674B5A772341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4C8E2F2-84D1-4225-A4BC-674B5A772341}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -12,6 +12,7 @@
     <ProjectReference Include="..\Pills\Pills.csproj" />
     <ProjectReference Include="..\Dictionary\Dictionary.csproj" />
     <ProjectReference Include="..\Tuplas\Tuplas.csproj" />
+    <ProjectReference Include="..\Desconstrutor\Desconstrutor.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
