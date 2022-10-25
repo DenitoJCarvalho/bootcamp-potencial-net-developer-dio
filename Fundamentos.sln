@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excecoes", "Excecoes\Exceco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIFO", "FIFO\FIFO.csproj", "{7C413008-D1FD-4820-B314-273A6E0079FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pills", "Pills\Pills.csproj", "{4A55F8AC-D665-4503-95E8-F22411D54B55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{7C413008-D1FD-4820-B314-273A6E0079FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C413008-D1FD-4820-B314-273A6E0079FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C413008-D1FD-4820-B314-273A6E0079FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A55F8AC-D665-4503-95E8-F22411D54B55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A55F8AC-D665-4503-95E8-F22411D54B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A55F8AC-D665-4503-95E8-F22411D54B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A55F8AC-D665-4503-95E8-F22411D54B55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
