@@ -1,0 +1,15 @@
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Desconstrutor\bin\Debug\net6.0\Desconstrutor.exe
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Desconstrutor\bin\Debug\net6.0\Desconstrutor.deps.json
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Desconstrutor\bin\Debug\net6.0\Desconstrutor.runtimeconfig.json
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Desconstrutor\bin\Debug\net6.0\Desconstrutor.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Desconstrutor\bin\Debug\net6.0\Desconstrutor.pdb
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Desconstrutor\obj\Debug\net6.0\Desconstrutor.csproj.AssemblyReference.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Desconstrutor\obj\Debug\net6.0\Desconstrutor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Desconstrutor\obj\Debug\net6.0\Desconstrutor.AssemblyInfoInputs.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Desconstrutor\obj\Debug\net6.0\Desconstrutor.AssemblyInfo.cs
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Desconstrutor\obj\Debug\net6.0\Desconstrutor.csproj.CoreCompileInputs.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Desconstrutor\obj\Debug\net6.0\Desconstrutor.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Desconstrutor\obj\Debug\net6.0\refint\Desconstrutor.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Desconstrutor\obj\Debug\net6.0\Desconstrutor.pdb
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Desconstrutor\obj\Debug\net6.0\Desconstrutor.genruntimeconfig.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Desconstrutor\obj\Debug\net6.0\ref\Desconstrutor.dll
