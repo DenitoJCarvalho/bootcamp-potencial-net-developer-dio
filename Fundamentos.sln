@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pills", "Pills\Pills.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{AECFC8B2-476F-4712-B74E-638DA0C418E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuplas", "Tuplas\Tuplas.csproj", "{90A20555-FEDF-4DDD-8EB8-1CAE0DE24E8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{AECFC8B2-476F-4712-B74E-638DA0C418E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AECFC8B2-476F-4712-B74E-638DA0C418E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AECFC8B2-476F-4712-B74E-638DA0C418E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90A20555-FEDF-4DDD-8EB8-1CAE0DE24E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90A20555-FEDF-4DDD-8EB8-1CAE0DE24E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90A20555-FEDF-4DDD-8EB8-1CAE0DE24E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90A20555-FEDF-4DDD-8EB8-1CAE0DE24E8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

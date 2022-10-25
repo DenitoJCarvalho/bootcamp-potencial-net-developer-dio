@@ -11,6 +11,7 @@
     <ProjectReference Include="..\FIFO\FIFO.csproj" />
     <ProjectReference Include="..\Pills\Pills.csproj" />
     <ProjectReference Include="..\Dictionary\Dictionary.csproj" />
+    <ProjectReference Include="..\Tuplas\Tuplas.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

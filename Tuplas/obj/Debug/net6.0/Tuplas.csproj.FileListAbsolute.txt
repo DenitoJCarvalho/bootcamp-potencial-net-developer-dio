@@ -1,0 +1,15 @@
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Tuplas\bin\Debug\net6.0\Tuplas.exe
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Tuplas\bin\Debug\net6.0\Tuplas.deps.json
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Tuplas\bin\Debug\net6.0\Tuplas.runtimeconfig.json
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Tuplas\bin\Debug\net6.0\Tuplas.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Tuplas\bin\Debug\net6.0\Tuplas.pdb
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Tuplas\obj\Debug\net6.0\Tuplas.csproj.AssemblyReference.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Tuplas\obj\Debug\net6.0\Tuplas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Tuplas\obj\Debug\net6.0\Tuplas.AssemblyInfoInputs.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Tuplas\obj\Debug\net6.0\Tuplas.AssemblyInfo.cs
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Tuplas\obj\Debug\net6.0\Tuplas.csproj.CoreCompileInputs.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Tuplas\obj\Debug\net6.0\Tuplas.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Tuplas\obj\Debug\net6.0\refint\Tuplas.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Tuplas\obj\Debug\net6.0\Tuplas.pdb
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Tuplas\obj\Debug\net6.0\Tuplas.genruntimeconfig.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Tuplas\obj\Debug\net6.0\ref\Tuplas.dll
