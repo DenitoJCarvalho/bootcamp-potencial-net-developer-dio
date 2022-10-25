@@ -1,0 +1,15 @@
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Pills\bin\Debug\net6.0\Pills.exe
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Pills\bin\Debug\net6.0\Pills.deps.json
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Pills\bin\Debug\net6.0\Pills.runtimeconfig.json
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Pills\bin\Debug\net6.0\Pills.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Pills\bin\Debug\net6.0\Pills.pdb
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Pills\obj\Debug\net6.0\Pills.csproj.AssemblyReference.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Pills\obj\Debug\net6.0\Pills.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Pills\obj\Debug\net6.0\Pills.AssemblyInfoInputs.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Pills\obj\Debug\net6.0\Pills.AssemblyInfo.cs
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Pills\obj\Debug\net6.0\Pills.csproj.CoreCompileInputs.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Pills\obj\Debug\net6.0\Pills.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Pills\obj\Debug\net6.0\refint\Pills.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Pills\obj\Debug\net6.0\Pills.pdb
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Pills\obj\Debug\net6.0\Pills.genruntimeconfig.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Pills\obj\Debug\net6.0\ref\Pills.dll
