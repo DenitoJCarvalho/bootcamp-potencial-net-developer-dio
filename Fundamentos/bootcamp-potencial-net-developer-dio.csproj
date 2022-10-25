@@ -10,6 +10,7 @@
     <ProjectReference Include="..\Excecoes\Excecoes.csproj" />
     <ProjectReference Include="..\FIFO\FIFO.csproj" />
     <ProjectReference Include="..\Pills\Pills.csproj" />
+    <ProjectReference Include="..\Dictionary\Dictionary.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
