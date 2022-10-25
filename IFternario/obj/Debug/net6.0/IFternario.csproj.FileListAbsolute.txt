@@ -1,0 +1,15 @@
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\IFternario\bin\Debug\net6.0\IFternario.exe
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\IFternario\bin\Debug\net6.0\IFternario.deps.json
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\IFternario\bin\Debug\net6.0\IFternario.runtimeconfig.json
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\IFternario\bin\Debug\net6.0\IFternario.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\IFternario\bin\Debug\net6.0\IFternario.pdb
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\IFternario\obj\Debug\net6.0\IFternario.csproj.AssemblyReference.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\IFternario\obj\Debug\net6.0\IFternario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\IFternario\obj\Debug\net6.0\IFternario.AssemblyInfoInputs.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\IFternario\obj\Debug\net6.0\IFternario.AssemblyInfo.cs
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\IFternario\obj\Debug\net6.0\IFternario.csproj.CoreCompileInputs.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\IFternario\obj\Debug\net6.0\IFternario.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\IFternario\obj\Debug\net6.0\refint\IFternario.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\IFternario\obj\Debug\net6.0\IFternario.pdb
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\IFternario\obj\Debug\net6.0\IFternario.genruntimeconfig.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\IFternario\obj\Debug\net6.0\ref\IFternario.dll

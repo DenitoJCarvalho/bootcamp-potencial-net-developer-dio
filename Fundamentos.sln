@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuplas", "Tuplas\Tuplas.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desconstrutor", "Desconstrutor\Desconstrutor.csproj", "{E4C8E2F2-84D1-4225-A4BC-674B5A772341}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IFternario", "IFternario\IFternario.csproj", "{0A60B6FF-7CC6-4CD5-9351-ABF124814577}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{E4C8E2F2-84D1-4225-A4BC-674B5A772341}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4C8E2F2-84D1-4225-A4BC-674B5A772341}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4C8E2F2-84D1-4225-A4BC-674B5A772341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A60B6FF-7CC6-4CD5-9351-ABF124814577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A60B6FF-7CC6-4CD5-9351-ABF124814577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A60B6FF-7CC6-4CD5-9351-ABF124814577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A60B6FF-7CC6-4CD5-9351-ABF124814577}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

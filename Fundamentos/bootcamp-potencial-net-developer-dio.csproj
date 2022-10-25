@@ -13,6 +13,7 @@
     <ProjectReference Include="..\Dictionary\Dictionary.csproj" />
     <ProjectReference Include="..\Tuplas\Tuplas.csproj" />
     <ProjectReference Include="..\Desconstrutor\Desconstrutor.csproj" />
+    <ProjectReference Include="..\IFternario\IFternario.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
