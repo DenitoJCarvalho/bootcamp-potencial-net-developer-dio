@@ -8,6 +8,7 @@
     <ProjectReference Include="..\Estacionamento\Estacionamento.csproj" />
     <ProjectReference Include="..\ExplorandoCSharp\ExplorandoCSharp.csproj" />
     <ProjectReference Include="..\Excecoes\Excecoes.csproj" />
+    <ProjectReference Include="..\FIFO\FIFO.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
