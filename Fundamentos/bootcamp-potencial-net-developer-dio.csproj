@@ -15,6 +15,7 @@
     <ProjectReference Include="..\Desconstrutor\Desconstrutor.csproj" />
     <ProjectReference Include="..\IFternario\IFternario.csproj" />
     <ProjectReference Include="..\Serializacao\Serializacao.csproj" />
+    <ProjectReference Include="..\Generics\Generics.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
