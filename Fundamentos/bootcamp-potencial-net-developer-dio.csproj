@@ -14,6 +14,7 @@
     <ProjectReference Include="..\Tuplas\Tuplas.csproj" />
     <ProjectReference Include="..\Desconstrutor\Desconstrutor.csproj" />
     <ProjectReference Include="..\IFternario\IFternario.csproj" />
+    <ProjectReference Include="..\Serializacao\Serializacao.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

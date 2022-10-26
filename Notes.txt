@@ -5,3 +5,8 @@
     }
 
   Sendo assim nas versões pós .net6 não aparecerá explicitamente o método principal static void Main( string[] args)  
+
+  O gerenciador de pacotes utilizado pelo .NET é o Nuget, que permite desenvolvedores compartilhar códigos e bibliotecas.
+  Site: nuget.org
+
+  
