@@ -1,0 +1,17 @@
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Serializacao\bin\Debug\net6.0\Serializacao.exe
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Serializacao\bin\Debug\net6.0\Serializacao.deps.json
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Serializacao\bin\Debug\net6.0\Serializacao.runtimeconfig.json
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Serializacao\bin\Debug\net6.0\Serializacao.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Serializacao\bin\Debug\net6.0\Serializacao.pdb
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Serializacao\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Serializacao\obj\Debug\net6.0\Serializacao.csproj.AssemblyReference.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Serializacao\obj\Debug\net6.0\Serializacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Serializacao\obj\Debug\net6.0\Serializacao.AssemblyInfoInputs.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Serializacao\obj\Debug\net6.0\Serializacao.AssemblyInfo.cs
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Serializacao\obj\Debug\net6.0\Serializacao.csproj.CoreCompileInputs.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Serializacao\obj\Debug\net6.0\Serializacao.csproj.CopyComplete
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Serializacao\obj\Debug\net6.0\Serializacao.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Serializacao\obj\Debug\net6.0\refint\Serializacao.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Serializacao\obj\Debug\net6.0\Serializacao.pdb
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Serializacao\obj\Debug\net6.0\Serializacao.genruntimeconfig.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\Serializacao\obj\Debug\net6.0\ref\Serializacao.dll
