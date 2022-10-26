@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Generics.Models;
+
+Generico<int> arrayInt = new Generico<int>();
+
+arrayInt.AdicionarelementoArray(12);
+
+Console.WriteLine(arrayInt[0]);
