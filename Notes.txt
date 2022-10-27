@@ -9,4 +9,20 @@
   O gerenciador de pacotes utilizado pelo .NET é o Nuget, que permite desenvolvedores compartilhar códigos e bibliotecas.
   Site: nuget.org
 
-  
+  Alocação de memória no C#
+    STACK - neste contexto é uma porção contígua de memória reservada para empilhar osa dados necessários durante a execucação de blocos de código.
+    Funciona usando a forma LIFO (Last in First Out), ou seja, último a entrar, primeiro a sair
+
+    HEAP - é dinâmico, não impõe um modelo, um padrão de alocação de memória.
+    Aloca ou desaloca pequenos trechos de memória, só para necessidade do dado, podendo ser fisícamente em qualquer parte live da memóoria disponível para seu processo.
+
+    Garbage Collector (Coletor de lixo) - macanismo complexo de gerenciamento de memória que é responsável pela alocação e liberação da memoría.
+    Decide onde colocar os objetos no heap e decide também quando liberar a memória e de que forma.
+    Verifica o estado de memória para identificar o que está em uso e o que não está mais.
+
+    Tipo de valor - contém uma instância do tipo. EX: Value Types
+
+    Tipo de referência - contém uma referênciaa uma instância do tipo. EX: Reference Types
+
+
+
