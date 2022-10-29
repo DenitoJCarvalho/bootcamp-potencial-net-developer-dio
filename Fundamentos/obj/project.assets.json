@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "Newtonsoft.Json/13.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
       "DesafioDeCodigo1/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -10,6 +19,96 @@
         },
         "runtime": {
           "bin/placeholder/DesafioDeCodigo1.dll": {}
+        }
+      },
+      "DesafioDeCodigo2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DesafioDeCodigo2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DesafioDeCodigo2.dll": {}
+        }
+      },
+      "DesafioDeCodigo3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DesafioDeCodigo3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DesafioDeCodigo3.dll": {}
+        }
+      },
+      "DesafioDeCodigo4/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DesafioDeCodigo4.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DesafioDeCodigo4.dll": {}
+        }
+      },
+      "Desconstrutor/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Desconstrutor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Desconstrutor.dll": {}
+        }
+      },
+      "Dictionary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Dictionary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dictionary.dll": {}
+        }
+      },
+      "Estacionamento/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Estacionamento.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Estacionamento.dll": {}
+        }
+      },
+      "Excecoes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Excecoes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Excecoes.dll": {}
+        }
+      },
+      "ExplorandoCSharp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ExplorandoCSharp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExplorandoCSharp.dll": {}
+        }
+      },
+      "FIFO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FIFO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FIFO.dll": {}
         }
       },
       "Fundamentos.Common/1.0.0": {
@@ -21,25 +120,205 @@
         "runtime": {
           "bin/placeholder/Fundamentos.Common.dll": {}
         }
+      },
+      "Generics/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Generics.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Generics.dll": {}
+        }
+      },
+      "IFternario/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/IFternario.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IFternario.dll": {}
+        }
+      },
+      "MetodoDeExtensao/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MetodoDeExtensao.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MetodoDeExtensao.dll": {}
+        }
+      },
+      "Pills/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Pills.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pills.dll": {}
+        }
+      },
+      "Serializacao/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "newtonsoft.json": "13.0.1"
+        },
+        "compile": {
+          "bin/placeholder/Serializacao.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Serializacao.dll": {}
+        }
+      },
+      "Tuplas/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Tuplas.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tuplas.dll": {}
+        }
       }
     }
   },
   "libraries": {
+    "Newtonsoft.Json/13.0.1": {
+      "sha512": "ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.1.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
     "DesafioDeCodigo1/1.0.0": {
       "type": "project",
       "path": "../DesafioDeCodigo1/DesafioDeCodigo1.csproj",
       "msbuildProject": "../DesafioDeCodigo1/DesafioDeCodigo1.csproj"
     },
+    "DesafioDeCodigo2/1.0.0": {
+      "type": "project",
+      "path": "../DesafioDeCodigo2/DesafioDeCodigo2.csproj",
+      "msbuildProject": "../DesafioDeCodigo2/DesafioDeCodigo2.csproj"
+    },
+    "DesafioDeCodigo3/1.0.0": {
+      "type": "project",
+      "path": "../DesafioDeCodigo3/DesafioDeCodigo3.csproj",
+      "msbuildProject": "../DesafioDeCodigo3/DesafioDeCodigo3.csproj"
+    },
+    "DesafioDeCodigo4/1.0.0": {
+      "type": "project",
+      "path": "../DesafioDeCodigo4/DesafioDeCodigo4.csproj",
+      "msbuildProject": "../DesafioDeCodigo4/DesafioDeCodigo4.csproj"
+    },
+    "Desconstrutor/1.0.0": {
+      "type": "project",
+      "path": "../Desconstrutor/Desconstrutor.csproj",
+      "msbuildProject": "../Desconstrutor/Desconstrutor.csproj"
+    },
+    "Dictionary/1.0.0": {
+      "type": "project",
+      "path": "../Dictionary/Dictionary.csproj",
+      "msbuildProject": "../Dictionary/Dictionary.csproj"
+    },
+    "Estacionamento/1.0.0": {
+      "type": "project",
+      "path": "../Estacionamento/Estacionamento.csproj",
+      "msbuildProject": "../Estacionamento/Estacionamento.csproj"
+    },
+    "Excecoes/1.0.0": {
+      "type": "project",
+      "path": "../Excecoes/Excecoes.csproj",
+      "msbuildProject": "../Excecoes/Excecoes.csproj"
+    },
+    "ExplorandoCSharp/1.0.0": {
+      "type": "project",
+      "path": "../ExplorandoCSharp/ExplorandoCSharp.csproj",
+      "msbuildProject": "../ExplorandoCSharp/ExplorandoCSharp.csproj"
+    },
+    "FIFO/1.0.0": {
+      "type": "project",
+      "path": "../FIFO/FIFO.csproj",
+      "msbuildProject": "../FIFO/FIFO.csproj"
+    },
     "Fundamentos.Common/1.0.0": {
       "type": "project",
       "path": "../Fundamentos.Common/Fundamentos.Common.csproj",
       "msbuildProject": "../Fundamentos.Common/Fundamentos.Common.csproj"
+    },
+    "Generics/1.0.0": {
+      "type": "project",
+      "path": "../Generics/Generics.csproj",
+      "msbuildProject": "../Generics/Generics.csproj"
+    },
+    "IFternario/1.0.0": {
+      "type": "project",
+      "path": "../IFternario/IFternario.csproj",
+      "msbuildProject": "../IFternario/IFternario.csproj"
+    },
+    "MetodoDeExtensao/1.0.0": {
+      "type": "project",
+      "path": "../MetodoDeExtensao/MetodoDeExtensao.csproj",
+      "msbuildProject": "../MetodoDeExtensao/MetodoDeExtensao.csproj"
+    },
+    "Pills/1.0.0": {
+      "type": "project",
+      "path": "../Pills/Pills.csproj",
+      "msbuildProject": "../Pills/Pills.csproj"
+    },
+    "Serializacao/1.0.0": {
+      "type": "project",
+      "path": "../Serializacao/Serializacao.csproj",
+      "msbuildProject": "../Serializacao/Serializacao.csproj"
+    },
+    "Tuplas/1.0.0": {
+      "type": "project",
+      "path": "../Tuplas/Tuplas.csproj",
+      "msbuildProject": "../Tuplas/Tuplas.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "DesafioDeCodigo1 >= 1.0.0",
-      "Fundamentos.Common >= 1.0.0"
+      "DesafioDeCodigo2 >= 1.0.0",
+      "DesafioDeCodigo3 >= 1.0.0",
+      "DesafioDeCodigo4 >= 1.0.0",
+      "Desconstrutor >= 1.0.0",
+      "Dictionary >= 1.0.0",
+      "Estacionamento >= 1.0.0",
+      "Excecoes >= 1.0.0",
+      "ExplorandoCSharp >= 1.0.0",
+      "FIFO >= 1.0.0",
+      "Fundamentos.Common >= 1.0.0",
+      "Generics >= 1.0.0",
+      "IFternario >= 1.0.0",
+      "MetodoDeExtensao >= 1.0.0",
+      "Pills >= 1.0.0",
+      "Serializacao >= 1.0.0",
+      "Tuplas >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -77,8 +356,53 @@
             "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\DesafioDeCodigo1\\DesafioDeCodigo1.csproj": {
               "projectPath": "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\DesafioDeCodigo1\\DesafioDeCodigo1.csproj"
             },
+            "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\DesafioDeCodigo2\\DesafioDeCodigo2.csproj": {
+              "projectPath": "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\DesafioDeCodigo2\\DesafioDeCodigo2.csproj"
+            },
+            "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\DesafioDeCodigo3\\DesafioDeCodigo3.csproj": {
+              "projectPath": "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\DesafioDeCodigo3\\DesafioDeCodigo3.csproj"
+            },
+            "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\DesafioDeCodigo4\\DesafioDeCodigo4.csproj": {
+              "projectPath": "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\DesafioDeCodigo4\\DesafioDeCodigo4.csproj"
+            },
+            "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\Desconstrutor\\Desconstrutor.csproj": {
+              "projectPath": "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\Desconstrutor\\Desconstrutor.csproj"
+            },
+            "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\Dictionary\\Dictionary.csproj": {
+              "projectPath": "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\Dictionary\\Dictionary.csproj"
+            },
+            "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\Estacionamento\\Estacionamento.csproj": {
+              "projectPath": "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\Estacionamento\\Estacionamento.csproj"
+            },
+            "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\Excecoes\\Excecoes.csproj": {
+              "projectPath": "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\Excecoes\\Excecoes.csproj"
+            },
+            "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\ExplorandoCSharp\\ExplorandoCSharp.csproj": {
+              "projectPath": "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\ExplorandoCSharp\\ExplorandoCSharp.csproj"
+            },
+            "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\FIFO\\FIFO.csproj": {
+              "projectPath": "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\FIFO\\FIFO.csproj"
+            },
             "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\Fundamentos.Common\\Fundamentos.Common.csproj": {
               "projectPath": "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\Fundamentos.Common\\Fundamentos.Common.csproj"
+            },
+            "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\Generics\\Generics.csproj": {
+              "projectPath": "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\Generics\\Generics.csproj"
+            },
+            "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\IFternario\\IFternario.csproj": {
+              "projectPath": "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\IFternario\\IFternario.csproj"
+            },
+            "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\MetodoDeExtensao\\MetodoDeExtensao.csproj": {
+              "projectPath": "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\MetodoDeExtensao\\MetodoDeExtensao.csproj"
+            },
+            "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\Pills\\Pills.csproj": {
+              "projectPath": "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\Pills\\Pills.csproj"
+            },
+            "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\Serializacao\\Serializacao.csproj": {
+              "projectPath": "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\Serializacao\\Serializacao.csproj"
+            },
+            "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\Tuplas\\Tuplas.csproj": {
+              "projectPath": "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\Tuplas\\Tuplas.csproj"
             }
           }
         }

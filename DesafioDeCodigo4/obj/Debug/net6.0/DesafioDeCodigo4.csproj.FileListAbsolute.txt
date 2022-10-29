@@ -1,0 +1,15 @@
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo4\bin\Debug\net6.0\DesafioDeCodigo4.exe
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo4\bin\Debug\net6.0\DesafioDeCodigo4.deps.json
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo4\bin\Debug\net6.0\DesafioDeCodigo4.runtimeconfig.json
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo4\bin\Debug\net6.0\DesafioDeCodigo4.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo4\bin\Debug\net6.0\DesafioDeCodigo4.pdb
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo4\obj\Debug\net6.0\DesafioDeCodigo4.csproj.AssemblyReference.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo4\obj\Debug\net6.0\DesafioDeCodigo4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo4\obj\Debug\net6.0\DesafioDeCodigo4.AssemblyInfoInputs.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo4\obj\Debug\net6.0\DesafioDeCodigo4.AssemblyInfo.cs
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo4\obj\Debug\net6.0\DesafioDeCodigo4.csproj.CoreCompileInputs.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo4\obj\Debug\net6.0\DesafioDeCodigo4.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo4\obj\Debug\net6.0\refint\DesafioDeCodigo4.dll
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo4\obj\Debug\net6.0\DesafioDeCodigo4.pdb
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo4\obj\Debug\net6.0\DesafioDeCodigo4.genruntimeconfig.cache
+D:\Projetos\Projetos Dennis\dio\bootcamp-potencial-net-developer-dio\DesafioDeCodigo4\obj\Debug\net6.0\ref\DesafioDeCodigo4.dll

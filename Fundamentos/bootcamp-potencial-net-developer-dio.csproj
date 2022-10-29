@@ -17,6 +17,7 @@
     <ProjectReference Include="..\Serializacao\Serializacao.csproj" />
     <ProjectReference Include="..\Generics\Generics.csproj" />
     <ProjectReference Include="..\MetodoDeExtensao\MetodoDeExtensao.csproj" />
+    <ProjectReference Include="..\DesafioDeCodigo4\DesafioDeCodigo4.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

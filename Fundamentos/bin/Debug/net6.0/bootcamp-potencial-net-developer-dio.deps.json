@@ -9,10 +9,33 @@
       "bootcamp-potencial-net-developer-dio/1.0.0": {
         "dependencies": {
           "DesafioDeCodigo1": "1.0.0",
-          "Fundamentos.Common": "1.0.0"
+          "DesafioDeCodigo2": "1.0.0",
+          "DesafioDeCodigo3": "1.0.0",
+          "DesafioDeCodigo4": "1.0.0",
+          "Desconstrutor": "1.0.0",
+          "Dictionary": "1.0.0",
+          "Estacionamento": "1.0.0",
+          "Excecoes": "1.0.0",
+          "ExplorandoCSharp": "1.0.0",
+          "FIFO": "1.0.0",
+          "Fundamentos.Common": "1.0.0",
+          "Generics": "1.0.0",
+          "IFternario": "1.0.0",
+          "MetodoDeExtensao": "1.0.0",
+          "Pills": "1.0.0",
+          "Serializacao": "1.0.0",
+          "Tuplas": "1.0.0"
         },
         "runtime": {
           "bootcamp-potencial-net-developer-dio.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
         }
       },
       "DesafioDeCodigo1/1.0.0": {
@@ -20,9 +43,87 @@
           "DesafioDeCodigo1.dll": {}
         }
       },
+      "DesafioDeCodigo2/1.0.0": {
+        "runtime": {
+          "DesafioDeCodigo2.dll": {}
+        }
+      },
+      "DesafioDeCodigo3/1.0.0": {
+        "runtime": {
+          "DesafioDeCodigo3.dll": {}
+        }
+      },
+      "DesafioDeCodigo4/1.0.0": {
+        "runtime": {
+          "DesafioDeCodigo4.dll": {}
+        }
+      },
+      "Desconstrutor/1.0.0": {
+        "runtime": {
+          "Desconstrutor.dll": {}
+        }
+      },
+      "Dictionary/1.0.0": {
+        "runtime": {
+          "Dictionary.dll": {}
+        }
+      },
+      "Estacionamento/1.0.0": {
+        "runtime": {
+          "Estacionamento.dll": {}
+        }
+      },
+      "Excecoes/1.0.0": {
+        "runtime": {
+          "Excecoes.dll": {}
+        }
+      },
+      "ExplorandoCSharp/1.0.0": {
+        "runtime": {
+          "ExplorandoCSharp.dll": {}
+        }
+      },
+      "FIFO/1.0.0": {
+        "runtime": {
+          "FIFO.dll": {}
+        }
+      },
       "Fundamentos.Common/1.0.0": {
         "runtime": {
           "Fundamentos.Common.dll": {}
+        }
+      },
+      "Generics/1.0.0": {
+        "runtime": {
+          "Generics.dll": {}
+        }
+      },
+      "IFternario/1.0.0": {
+        "runtime": {
+          "IFternario.dll": {}
+        }
+      },
+      "MetodoDeExtensao/1.0.0": {
+        "runtime": {
+          "MetodoDeExtensao.dll": {}
+        }
+      },
+      "Pills/1.0.0": {
+        "runtime": {
+          "Pills.dll": {}
+        }
+      },
+      "Serializacao/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "Serializacao.dll": {}
+        }
+      },
+      "Tuplas/1.0.0": {
+        "runtime": {
+          "Tuplas.dll": {}
         }
       }
     }
@@ -33,12 +134,94 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
     "DesafioDeCodigo1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
+    "DesafioDeCodigo2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesafioDeCodigo3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesafioDeCodigo4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Desconstrutor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dictionary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Estacionamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Excecoes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExplorandoCSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FIFO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Fundamentos.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Generics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IFternario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MetodoDeExtensao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pills/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Serializacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tuplas/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
