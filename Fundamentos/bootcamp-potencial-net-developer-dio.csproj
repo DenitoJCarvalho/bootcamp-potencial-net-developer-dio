@@ -19,6 +19,7 @@
     <ProjectReference Include="..\MetodoDeExtensao\MetodoDeExtensao.csproj" />
     <ProjectReference Include="..\DesafioDeCodigo4\DesafioDeCodigo4.csproj" />
     <ProjectReference Include="..\DesafioDeCodigo5\DesafioDeCodigo5.csproj" />
+    <ProjectReference Include="..\DesafioDeCodigo6\DesafioDeCodigo6.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
