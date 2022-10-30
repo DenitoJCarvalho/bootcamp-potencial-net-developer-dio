@@ -21,9 +21,9 @@ static int MajorityElement(int[] nums)
   int major = nums[0];
   int count = 1;
 
-  for (var i = 0; i < nums.Length; i++)
+  for (var i = 1; i < nums.Length; i++)
   {
-    if (major == nums[count++])
+    if (count == 0)
     {
       major = nums[i];
       count++;
