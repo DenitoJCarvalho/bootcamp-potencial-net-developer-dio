@@ -18,40 +18,31 @@ class Program
     double novoSalario = 0.00;
     double percentual = 0.00;
 
-    Thread.CurrentThread.CurrentCulture = new CultureInfo("en-US");
-
     salario = Convert.ToDouble(Console.ReadLine());
 
     if (salario > 400.00 && salario < 800.01)
     {
       percentual = 0.12;
-      reajuste = salario * percentual;
-      novoSalario = salario + reajuste;
     }
     else if (salario > 800.00 && salario < 1200.01)
     {
       percentual = 0.10;
-      reajuste = salario * percentual;
-      novoSalario = salario + reajuste;
     }
     else if (salario > 1200 && salario < 2000.01)
     {
       percentual = 0.07;
-      reajuste = salario * percentual;
-      novoSalario = salario + reajuste;
     }
     else if (salario > 2000.00)
     {
       percentual = 0.04;
-      reajuste = salario * percentual;
-      novoSalario = salario + reajuste;
     }
     else
     {
       percentual = 0.15;
-      reajuste = salario * percentual;
-      novoSalario = salario + reajuste;
     }
+
+    reajuste = salario * percentual;
+    novoSalario = salario + reajuste;
 
     Console.WriteLine("Novo salário: {0:0.00}", novoSalario);
     Console.WriteLine("Reajuste ganho: {0:0.00}", reajuste);

@@ -51,6 +51,26 @@
           "bin/placeholder/DesafioDeCodigo4.dll": {}
         }
       },
+      "DesafioDeCodigo5/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DesafioDeCodigo5.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DesafioDeCodigo5.dll": {}
+        }
+      },
+      "DesafioDeCodigo6/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DesafioDeCodigo6.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DesafioDeCodigo6.dll": {}
+        }
+      },
       "Desconstrutor/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -234,6 +254,16 @@
       "path": "../DesafioDeCodigo4/DesafioDeCodigo4.csproj",
       "msbuildProject": "../DesafioDeCodigo4/DesafioDeCodigo4.csproj"
     },
+    "DesafioDeCodigo5/1.0.0": {
+      "type": "project",
+      "path": "../DesafioDeCodigo5/DesafioDeCodigo5.csproj",
+      "msbuildProject": "../DesafioDeCodigo5/DesafioDeCodigo5.csproj"
+    },
+    "DesafioDeCodigo6/1.0.0": {
+      "type": "project",
+      "path": "../DesafioDeCodigo6/DesafioDeCodigo6.csproj",
+      "msbuildProject": "../DesafioDeCodigo6/DesafioDeCodigo6.csproj"
+    },
     "Desconstrutor/1.0.0": {
       "type": "project",
       "path": "../Desconstrutor/Desconstrutor.csproj",
@@ -302,12 +332,12 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\DesafioDeCodigo5\\DesafioDeCodigo5.csproj",
-      "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\DesafioDeCodigo6\\DesafioDeCodigo6.csproj",
       "DesafioDeCodigo1 >= 1.0.0",
       "DesafioDeCodigo2 >= 1.0.0",
       "DesafioDeCodigo3 >= 1.0.0",
       "DesafioDeCodigo4 >= 1.0.0",
+      "DesafioDeCodigo5 >= 1.0.0",
+      "DesafioDeCodigo6 >= 1.0.0",
       "Desconstrutor >= 1.0.0",
       "Dictionary >= 1.0.0",
       "Estacionamento >= 1.0.0",
@@ -442,25 +472,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\DesafioDeCodigo6\\DesafioDeCodigo6.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\DesafioDeCodigo6\\DesafioDeCodigo6.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\DesafioDeCodigo5\\DesafioDeCodigo5.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\DesafioDeCodigo5\\DesafioDeCodigo5.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  }
 }
