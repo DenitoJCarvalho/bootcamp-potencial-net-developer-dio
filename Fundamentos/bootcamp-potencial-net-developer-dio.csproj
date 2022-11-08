@@ -21,6 +21,7 @@
     <ProjectReference Include="..\DesafioDeCodigo5\DesafioDeCodigo5.csproj" />
     <ProjectReference Include="..\DesafioDeCodigo6\DesafioDeCodigo6.csproj" />
     <ProjectReference Include="..\HospedagemDeHotel\HospedagemDeHotel.csproj" />
+    <ProjectReference Include="..\POO\POO.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
