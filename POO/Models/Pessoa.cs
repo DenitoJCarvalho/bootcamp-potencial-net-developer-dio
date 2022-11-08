@@ -14,7 +14,7 @@ namespace POO.Models
     /// <summary>
     /// Apresenta o nome da pessoa e sua idade.
     /// </summary>
-    public void Apresentar()
+    public virtual void Apresentar()
     {
       Console.WriteLine($"Olá, meu nome é {Nome} e tenho {Idade} anos");
     }
