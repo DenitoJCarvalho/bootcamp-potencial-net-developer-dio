@@ -11,6 +11,13 @@ namespace POO.Models
     public string Nome { get; set; }
     public int Idade { get; set; }
 
+    public Pessoa() { }
+
+    public Pessoa(string Nome)
+    {
+      this.Nome = Nome;
+    }
+
     /// <summary>
     /// Apresenta o nome da pessoa e sua idade.
     /// </summary>

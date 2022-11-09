@@ -13,6 +13,9 @@ namespace POO.Models
   {
     public double Nota { get; set; }
 
+    public Aluno() { }
+    public Aluno(string Nome) : base(Nome) { }
+
     /// <summary>
     /// Apresenta o aluno e sua nota.
     /// </summary>

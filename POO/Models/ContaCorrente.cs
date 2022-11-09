@@ -20,10 +20,7 @@ namespace POO.Models
     public void Sacar(decimal valor)
     {
       Saldo -= valor;
-      Console.WriteLine(@$"
-        O valor sacado foi de R${valor}
-        Saldo disponível no momento é R${Saldo}
-      ");
+      Console.WriteLine($"O valor sacado foi de R${valor}. Saldo disponível no momento é R${Saldo}");
     }
   }
 }
