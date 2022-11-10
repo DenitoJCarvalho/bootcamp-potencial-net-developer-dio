@@ -22,7 +22,10 @@ namespace SistemasParaCelulares.Models
     ) : base(Numero, Modelo, IMEI, Memoria) { }
 
     #region Instalar aplicativo
-    public override void InstalarAplicativo(string Nome) { }
+    public override void InstalarAplicativo(string NomeApp)
+    {
+      Console.WriteLine($"Instalando App {NomeApp} no número: {Numero}");
+    }
     #endregion
   }
 }

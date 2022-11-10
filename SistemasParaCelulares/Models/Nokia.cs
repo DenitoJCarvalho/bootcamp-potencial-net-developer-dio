@@ -26,7 +26,10 @@ namespace SistemasParaCelulares.Models
     /// Método para instalação de aplicativos no modelo Nokia
     /// </summary>
     /// <param name="NomeApp"></param>
-    public override void InstalarAplicativo(string NomeApp) { }
+    public override void InstalarAplicativo(string NomeApp)
+    {
+      Console.WriteLine($"instalando App {NomeApp} no número: {Numero}");
+    }
     #endregion
   }
 }
