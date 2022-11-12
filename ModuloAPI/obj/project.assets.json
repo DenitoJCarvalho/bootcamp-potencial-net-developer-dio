@@ -5892,6 +5892,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.EntityFrameworkCore.Design >= 7.0.0",
+      "Microsoft.EntityFrameworkCore.Relational >= 7.0.0",
       "Pomelo.EntityFrameworkCore.MySql >= 6.0.2",
       "Pomelo.EntityFrameworkCore.MySql.Design >= 1.1.2",
       "Swashbuckle.AspNetCore >= 6.4.0"
@@ -5947,6 +5948,10 @@
             "target": "Package",
             "version": "[7.0.0, )"
           },
+          "Microsoft.EntityFrameworkCore.Relational": {
+            "target": "Package",
+            "version": "[7.0.0, )"
+          },
           "Pomelo.EntityFrameworkCore.MySql": {
             "target": "Package",
             "version": "[6.0.2, )"
@@ -5984,9 +5989,10 @@
   },
   "logs": [
     {
-      "code": "NU1107",
-      "level": "Error",
-      "message": "Version conflict detected for Microsoft.EntityFrameworkCore.Relational. Install/reference Microsoft.EntityFrameworkCore.Relational 7.0.0 directly to project ModuloAPI to resolve this issue. \r\n ModuloAPI -> Microsoft.EntityFrameworkCore.Design 7.0.0 -> Microsoft.EntityFrameworkCore.Relational (>= 7.0.0) \r\n ModuloAPI -> Pomelo.EntityFrameworkCore.MySql 6.0.2 -> Microsoft.EntityFrameworkCore.Relational (>= 6.0.7 && < 7.0.0).",
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Versão detectada do pacote fora da restrição de dependência: Pomelo.EntityFrameworkCore.MySql 6.0.2 requer Microsoft.EntityFrameworkCore.Relational (>= 6.0.7 && < 7.0.0), mas a versão Microsoft.EntityFrameworkCore.Relational 7.0.0 foi resolvida.",
       "libraryId": "Microsoft.EntityFrameworkCore.Relational",
       "targetGraphs": [
         "net6.0"

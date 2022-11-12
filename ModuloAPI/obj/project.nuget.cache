@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "wAmsF72EuFTn6xIQmcFFnZk/Y8sXsOMsFdQjh10jhYOX6z3GA0Sf3Th2tYHIUDbdTI6TfhzBg1Q630+lvj0sPA==",
-  "success": false,
+  "dgSpecHash": "lqZ4GTJyCkDeybVXsDXsSm3unKiHwd0ERj0+cE/LQBoIrgV1TZR8DpvdeuN7f8C5miapbB5otbmFMgL7elV1pQ==",
+  "success": true,
   "projectFilePath": "D:\\Projetos\\Projetos Dennis\\dio\\bootcamp-potencial-net-developer-dio\\ModuloAPI\\ModuloAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dennis\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -112,9 +112,10 @@
   ],
   "logs": [
     {
-      "code": "NU1107",
-      "level": "Error",
-      "message": "Version conflict detected for Microsoft.EntityFrameworkCore.Relational. Install/reference Microsoft.EntityFrameworkCore.Relational 7.0.0 directly to project ModuloAPI to resolve this issue. \r\n ModuloAPI -> Microsoft.EntityFrameworkCore.Design 7.0.0 -> Microsoft.EntityFrameworkCore.Relational (>= 7.0.0) \r\n ModuloAPI -> Pomelo.EntityFrameworkCore.MySql 6.0.2 -> Microsoft.EntityFrameworkCore.Relational (>= 6.0.7 && < 7.0.0).",
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Versão detectada do pacote fora da restrição de dependência: Pomelo.EntityFrameworkCore.MySql 6.0.2 requer Microsoft.EntityFrameworkCore.Relational (>= 6.0.7 && < 7.0.0), mas a versão Microsoft.EntityFrameworkCore.Relational 7.0.0 foi resolvida.",
       "libraryId": "Microsoft.EntityFrameworkCore.Relational",
       "targetGraphs": [
         "net6.0"
