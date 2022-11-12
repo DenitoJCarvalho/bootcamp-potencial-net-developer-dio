@@ -10,6 +10,8 @@ namespace ModuloAPI.Controllers
   [Route("[controller]")]
   public class UsuarioController : ControllerBase
   {
+    #region Obter data e hora atual
+
     [HttpGet("ObterDataHoraAtual")]
     public IActionResult ObterDataHora()
     {
@@ -21,5 +23,18 @@ namespace ModuloAPI.Controllers
 
       return Ok(obj);
     }
+    #endregion
+
+    #region  Apresentar nome
+
+    [HttpGet("Apresentar/{Nome}")]
+    public IActionResult Apresentar(string Nome)
+    {
+      var msg = $"Olá, {Nome} seja bem vindo!";
+
+      return Ok(new { msg });
+    }
+
+    #endregion
   }
 }
