@@ -1,0 +1,17 @@
+{
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "Dennis_MySQL",
+      "database": "bootcamp_pottencial",
+      "username": "root",
+      "password": "984510"
+    }
+  ]
+}
