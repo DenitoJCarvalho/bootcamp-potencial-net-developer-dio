@@ -23,6 +23,7 @@
     <ProjectReference Include="..\HospedagemDeHotel\HospedagemDeHotel.csproj" />
     <ProjectReference Include="..\POO\POO.csproj" />
     <ProjectReference Include="..\SistemasParaCelulares\SistemasParaCelulares.csproj" />
+    <ProjectReference Include="..\ModuloAPI\ModuloAPI.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

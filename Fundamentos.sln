@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO", "POO\POO.csproj", "{E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemasParaCelulares", "SistemasParaCelulares\SistemasParaCelulares.csproj", "{710A154A-5338-4DC1-8B71-9BB7A640CCF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuloAPI", "ModuloAPI\ModuloAPI.csproj", "{2F36D735-8CE2-44AC-BA1B-BBF51F34C116}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -150,5 +152,9 @@ Global
 		{710A154A-5338-4DC1-8B71-9BB7A640CCF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{710A154A-5338-4DC1-8B71-9BB7A640CCF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{710A154A-5338-4DC1-8B71-9BB7A640CCF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F36D735-8CE2-44AC-BA1B-BBF51F34C116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F36D735-8CE2-44AC-BA1B-BBF51F34C116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F36D735-8CE2-44AC-BA1B-BBF51F34C116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F36D735-8CE2-44AC-BA1B-BBF51F34C116}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

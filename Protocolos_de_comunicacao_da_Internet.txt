@@ -1,0 +1,21 @@
+Métodos mais usados na rede
+
+GET - solicita um recurso do servidor
+HEAD -  GET sem corpo de resposta
+POST - submete uma entidade a um recurso
+PUT - substituição de recursos pelos dados da requisição
+DELETE - remoção de um recurso
+TRACE -  chamada de lopp-back a um determinado recurso
+OPTION - opções de comunicação com recurso
+CONNECT - tunelamento identificado pelo recurso
+PATCH - modificação parcial
+
+GET, POST, OPTION - são método de leitura (read-only), métodos seguros
+
+Classificação status code
+Information response (100 - 199)
+Successful response (200 - 299)
+Redirection response (300 - 399)
+Client error response (400 - 499)
+Server error response (500 - 599)
+
